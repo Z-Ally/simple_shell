@@ -1,5 +1,7 @@
 Pair programming with Azhar Kadwa
-Tasks
+
+Tasks:
+
 0. Betty would be proud
 Write a beautiful code that passes the Betty checks
 
