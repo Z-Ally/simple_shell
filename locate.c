@@ -73,7 +73,7 @@ char *fill_path_dir(char *path)
 				length++;
 		}
 		else
-			length;
+			length++;
 	}
 	path_copy = malloc(sizeof(char) * (length + 1));
 	if (!path_copy)
